@@ -1,6 +1,6 @@
 ### Hi there, I'm Debotos 👋
 
-[![Website](https://img.shields.io/website?label=My Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
 [![Website](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
 
 ## I'm a Student, Developer, and Learner!!
