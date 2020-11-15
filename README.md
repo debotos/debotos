@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Flutter & Rust
-- ⚡ Fun fact: I love music 🎧
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Flutter & Rust
+- ⚡  Fun fact: I love music 🎧
 
 ## Freelancing Profile
 
