@@ -1,4 +1,7 @@
-### Hi there, I'm Debotos 👋
+## Hi there, I'm Debotos 👋 
+### A fullstack developer from Bangladesh passionate about JavaScript stacks
+
+<img src="https://komarev.com/ghpvc/?username=debotos" alt="Debotos Profile View" />
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
 [![Website](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
@@ -6,7 +9,7 @@
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 &nbsp;&nbsp;I’m currently learning everything 🤣
-- 🥅 &nbsp;&nbsp;2020 Goals: Flutter & Rust
+- 🥅 &nbsp;&nbsp;2020 Goals: **Flutter** & **Rust**
 - ⚡ &nbsp;&nbsp;Fun fact: I love music 🎧
 
 ## Freelancing Profile
@@ -50,9 +53,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
+
+<img align="left" alt="Debotos GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debotos&layout=compact&hide=html" />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
