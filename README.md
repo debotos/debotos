@@ -52,13 +52,10 @@
 
 ---
 
-<p align="left">
 <img align="left" alt="Debotos GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debotos&layout=compact&hide=html" />
-</p>
-
-<p align="left">
+<br />
 <img align="left" alt="Debotos GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=debotos&show_icons=true" />
-</p>
+
 
 [website]: http://debotos.com
 [twitter]: https://twitter.com/debotos
