@@ -3,8 +3,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=debotos" alt="Debotos Profile View" />
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
-[![Website](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
+[![Codersrank](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
 
 ## I'm a Student, Developer, and Learner!!
 
@@ -14,11 +14,11 @@
 
 ## Freelancing Profile
 
-[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&logo=upwork&url=https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)](https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)
-[![Website](https://img.shields.io/website?label=PeoplePerHour.com&style=for-the-badge&url=https://pph.me/debotos)](https://pph.me/debotos)
-[![Website](https://img.shields.io/website?label=Guru.com&style=for-the-badge&url=https://www.guru.com/freelancers/debotos-das)](https://www.guru.com/freelancers/debotos-das)
-[![Website](https://img.shields.io/website?label=Freelancer.com&style=for-the-badge&url=https://www.freelancer.com/u/debotosdas)](https://www.freelancer.com/u/debotosdas)
-[![Website](https://img.shields.io/website?label=Truelancer.com&style=for-the-badge&url=https://www.truelancer.com/freelancer/debotosdas)](https://www.truelancer.com/freelancer/debotosdas)
+[![Upwork](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&logo=upwork&url=https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)](https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)
+[![PeoplePerHour](https://img.shields.io/website?label=PeoplePerHour.com&style=for-the-badge&url=https://pph.me/debotos)](https://pph.me/debotos)
+[![Guru](https://img.shields.io/website?label=Guru.com&style=for-the-badge&url=https://www.guru.com/freelancers/debotos-das)](https://www.guru.com/freelancers/debotos-das)
+[![Freelancer](https://img.shields.io/website?label=Freelancer.com&style=for-the-badge&url=https://www.freelancer.com/u/debotosdas)](https://www.freelancer.com/u/debotosdas)
+[![Truelancer](https://img.shields.io/website?label=Truelancer.com&style=for-the-badge&url=https://www.truelancer.com/freelancer/debotosdas)](https://www.truelancer.com/freelancer/debotosdas)
 
 ### Connect with me:
 
@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<p align="left"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
@@ -50,21 +50,18 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></p>  
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
 ---
 
+<br />
+
+<p align="center">
 <img align="left" alt="Debotos GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debotos&layout=compact&hide=html" />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Debotos GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=debotos&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Debotos GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=debotos&show_icons=true&hide_border=true" />
+</p>
 
 [website]: http://debotos.com
 [twitter]: https://twitter.com/debotos
