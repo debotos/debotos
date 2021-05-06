@@ -1,7 +1,7 @@
 ## Hi there, I'm Debotos 👋 
 ### A fullstack developer from Bangladesh passionate about JavaScript stacks
 <br />
-[<img align="left" alt="Debotos | CodersRank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />](https://profile.codersrank.io/user/debotos)
+[(<img align="left" alt="Debotos | CodersRank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />)](https://profile.codersrank.io/user/debotos)
 <br />
 <img src="https://komarev.com/ghpvc/?username=debotos" alt="Debotos Profile View" />
 
