@@ -1,6 +1,8 @@
 ## Hi there, I'm Debotos 👋 
 ### A fullstack developer from Bangladesh passionate about JavaScript stacks
-
+<br />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />
+<br />
 <img src="https://komarev.com/ghpvc/?username=debotos" alt="Debotos Profile View" />
 
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
@@ -49,8 +51,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />
 
 ---
 
