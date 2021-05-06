@@ -50,7 +50,7 @@
 
 <br />
 
-<img align="left" alt="MySQL" width="26px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos" />
 
 ---
 
