@@ -53,7 +53,7 @@
 
 ---
 
-![Debotos GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debotos&layout=compact&hide=html)\
+![Debotos GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debotos&layout=compact&hide=html)
 
 [website]: http://debotos.com
 [twitter]: https://twitter.com/debotos
