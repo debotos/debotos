@@ -20,6 +20,7 @@
 [![Guru](https://img.shields.io/website?label=Guru.com&style=for-the-badge&url=https://www.guru.com/freelancers/debotos-das)](https://www.guru.com/freelancers/debotos-das)
 [![Freelancer](https://img.shields.io/website?label=Freelancer.com&style=for-the-badge&url=https://www.freelancer.com/u/debotosdas)](https://www.freelancer.com/u/debotosdas)
 [![Truelancer](https://img.shields.io/website?label=Truelancer.com&style=for-the-badge&url=https://www.truelancer.com/freelancer/debotosdas)](https://www.truelancer.com/freelancer/debotosdas)
+[![Fiverr](https://img.shields.io/website?label=Fiverr.com&style=for-the-badge&url=https://www.fiverr.com/debotos)](https://www.fiverr.com/debotos)
 
 ### Connect with me:
 
