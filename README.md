@@ -10,7 +10,7 @@
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 &nbsp;&nbsp;I’m currently learning everything 🤣
-- 🥅 &nbsp;&nbsp;2020 Goals: **Flutter** & **Rust**
+- 🥅 &nbsp;&nbsp;2022 Goals: **Flutter**, **SwiftUI**, **Go**, **Solidity**
 - ⚡ &nbsp;&nbsp;Fun fact: I love music 🎧
 
 ## Freelancing Profile
