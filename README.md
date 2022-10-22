@@ -1,6 +1,5 @@
 ## Hi there, I'm Debotos 👋 
 ### A fullstack developer from Bangladesh passionate about JavaScript stacks
-[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=debotos">](https://profile.codersrank.io/user/debotos)
 
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
 [![Codersrank](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
@@ -8,8 +7,8 @@
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 &nbsp;&nbsp;I’m currently learning everything 🤣
-- 🥅 &nbsp;&nbsp;2022 Goals: **Flutter**, **SwiftUI**, **Go**, **Solidity**
-- ⚡ &nbsp;&nbsp;Fun fact: I love music 🎧
+- 🥅 &nbsp;&nbsp;Crush List ❤️: **Flutter**, **SwiftUI**, **Go**, **Rust**, **Solidity**
+- ⚡ &nbsp;&nbsp;Fun fact: I love music 🎧 & Reading 📚
 
 ## Freelancing Profile
 
@@ -47,10 +46,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-
----
 
 [website]: http://debotos.com
 [twitter]: https://twitter.com/debotos
