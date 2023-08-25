@@ -33,73 +33,73 @@
 
 <p align="left">
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="TypeScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+        <img alt="TypeScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+        <img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
+        <img alt="Vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="NextJS" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+        <img alt="NextJS" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Gatsby" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+        <img alt="Gatsby" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Redux" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+        <img alt="Redux" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Electron.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
+        <img alt="Electron.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="GraphQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+        <img alt="GraphQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+        <img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Express.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+        <img alt="Express.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Golang" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+        <img alt="Golang" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Rust" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+        <img alt="Rust" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Swift" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+        <img alt="Swift" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="React Native" width="40" height="40" src="https://reactnative.dev/img/header_logo.svg" />
+        <img alt="React Native" width="40" height="40" src="https://reactnative.dev/img/header_logo.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+        <img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+        <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+        <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+        <img alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+        <img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+        <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Heroku" width="40" height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+        <img alt="Heroku" width="40" height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
     </a>
     <a href="https://debotos.com/" target="_blank" rel="noreferrer">
-        <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" alt="Bash" width="40" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+        <img alt="Bash" width="40" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
     </a>
 </p>
 
