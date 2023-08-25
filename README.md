@@ -1,16 +1,16 @@
 ## Hi there, I'm Debotos 👋 
-### A fullstack developer from Bangladesh passionate about JavaScript stacks
+### A full-stack developer from Bangladesh mainly passionate about JavaScript stacks
 
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http://debotos.com)](http://debotos.com)
 [![Codersrank](https://img.shields.io/website?label=Codersrank&style=for-the-badge&url=https://profile.codersrank.io/user/debotos)][codersrank]
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Developer and Learner!!
 
 - 🌱 &nbsp;&nbsp;I’m currently learning everything 🤣
 - 🥅 &nbsp;&nbsp;Crush List ❤️: **Flutter**, **SwiftUI**, **Go**, **Rust**, **AI/ML**
 - ⚡ &nbsp;&nbsp;Fun activities: **Walking 🚶‍♂️** **Listening Music 🎧** & **Reading 📚**
 
-## Freelancing Profile
+## Freelancing Profiles
 
 [![Upwork](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&logo=upwork&url=https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)](https://www.upwork.com/freelancers/~01c98e3b1f5f5d7da1)
 [![PeoplePerHour](https://img.shields.io/website?label=PeoplePerHour.com&style=for-the-badge&url=https://pph.me/debotos)](https://pph.me/debotos)
